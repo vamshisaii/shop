@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+working video: git push -u origin master
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
