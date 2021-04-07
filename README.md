@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-working video: git push -u origin master
+working video: https://www.youtube.com/watch?v=_UbdCNGeJzg
 
 ## Getting Started
 
